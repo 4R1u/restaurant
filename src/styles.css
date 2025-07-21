@@ -1,7 +1,8 @@
 .image-placeholder {
-    width: 640px;
-    height: 480px;
+    width: 320px;
+    height: 200px;
     border: 1px solid black;
+    background-color: var(--color-4);
     display: flex;
     justify-content: center;
     align-items: center;
