@@ -1,5 +1,6 @@
 function loadMain() {
     const mainDiv = document.querySelector('#content');
+    mainDiv.textContent = "";
     const heading = document.createElement('h1');
     const imagePlaceholder = document.createElement('div');
     const loremIpsum = document.createElement('p');
