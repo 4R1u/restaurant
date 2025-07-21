@@ -6,3 +6,24 @@
     justify-content: center;
     align-items: center;
 }
+
+:root {
+    --color-1: #f08080;
+    --color-2: #f4978e;
+    --color-3: #f8ad9d;
+    --color-4: #fbc4ab;
+    --color-5: #ffdab9;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: var(--color-5);
+}
+
+header {
+    background-color: var(--color-1);
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+}
