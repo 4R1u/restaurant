@@ -1,4 +1,4 @@
 import "./styles.css";
-import { loadMain } from "./load.js";
+import { loadMain } from "./loadMain.js";
 
 loadMain();
