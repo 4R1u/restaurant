@@ -6,7 +6,7 @@ function loadAbout() {
     const contact = document.createElement('p');
 
     heading.textContent = "About";
-    about.textContent = "We serve the best food in town.";
+    about.textContent = "We are a restaurant located in the center of your city. We serve all kinds of continental cuisine, and are open 24/7.";
     contact.textContent = "Contact us: 62248461+4R1u@users.noreply.github.com";
 
     mainDiv.appendChild(heading);
