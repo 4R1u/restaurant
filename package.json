@@ -1,0 +1,23 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "Restaurant page project from The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4R1u/restaurant.git"
+  },
+  "author": "4R1u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4R1u/restaurant/issues"
+  },
+  "homepage": "https://github.com/4R1u/restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.100.2",
+    "webpack-cli": "^6.0.1"
+  }
+}
