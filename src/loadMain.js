@@ -5,7 +5,7 @@ function loadMain() {
     const imagePlaceholder = document.createElement('div');
     const loremIpsum = document.createElement('p');
 
-    heading.textContent = "Sample Restaurant";
+    heading.textContent = "Restaurant";
     imagePlaceholder.classList.add("image-placeholder");
     imagePlaceholder.textContent = "Placeholder for an image";
     loremIpsum.textContent = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis mollitia similique neque aliquid reprehenderit ipsam ducimus rerum dolorem! Totam, culpa. Voluptatum reiciendis minima quae veniam et. Voluptatem assumenda rerum aliquam?";
