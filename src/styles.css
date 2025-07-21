@@ -3,17 +3,18 @@
     height: 200px;
     border: 1px solid black;
     background-color: var(--color-4);
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 :root {
-    --color-1: #f08080;
-    --color-2: #f4978e;
-    --color-3: #f8ad9d;
-    --color-4: #fbc4ab;
-    --color-5: #ffdab9;
+    --color-1: #e63946;
+    --color-2: #f1faee;
+    --color-3: #a8dadc;
+    --color-4: #457b9d;
+    --color-5: #1d3557;
 }
 
 #content {
@@ -24,6 +25,7 @@ body {
     padding: 0;
     margin: 0;
     background-color: var(--color-5);
+    color: white;
 }
 
 header {
@@ -52,6 +54,7 @@ button {
 
 .menu-entry:nth-child(even) {
     background-color: var(--color-4);
+    color: black;
 }
 
 .menu-item {
