@@ -47,6 +47,7 @@ button {
     grid-template: repeat(2, 1fr) / repeat(5, 1fr);
     grid-template-areas: "item item item item price"
         "subtitle subtitle subtitle subtitle price";
+    width: fit-content;
 }
 
 .menu-entry:nth-child(even) {
