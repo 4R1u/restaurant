@@ -1,1 +1,1 @@
-alert("Testing webpack serve");
+import "./styles.css";
